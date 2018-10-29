@@ -8,9 +8,9 @@ import routes from './routes';
 class App extends Component {
   render() {
     return (
-      <div className="App">
+      <div>
        <Nav />
-       { routes }
+       <div className='app'>{ routes }</div>
       </div>
     );
   }

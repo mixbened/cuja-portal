@@ -1,6 +1,7 @@
 nav {
     display: flex;
     background: rgb(57, 195, 239);
+    padding: 0 2em;
 }
 
 ul {
